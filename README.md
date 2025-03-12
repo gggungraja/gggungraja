@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Gumraja
 
 ## 🚀 About Me
-I am an Electrical Engineering student at Universitas Udayana with a concentration in **Computer Engineering**. Passionate about **cybersecurity**, **mobile development**, and **blockchain**, I actively explore technologies that shape the future.
+I am an Electrical Engineering student at Universitas Udayana with a concentration in **Computer Engineering**. Passionate about **fullstack development**, **mobile development**, and **blockchain**, I actively explore technologies that shape the future.
 
 ## 🎯 Experience & Skills
 - **Mobile Development (Android)**
