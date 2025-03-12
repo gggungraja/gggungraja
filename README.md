@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gumraja
+# Hi there! 👋 I'm Gung Raja
 
 ## 🚀 About Me
 I am an Electrical Engineering student at Universitas Udayana with a concentration in **Computer Engineering**. Passionate about **fullstack development**, **mobile development**, and **blockchain**, I actively explore technologies that shape the future.
